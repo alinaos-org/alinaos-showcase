@@ -4,7 +4,7 @@
 acts in the open, submits to review, and runs on a machine you can rebuild from text.
 
 <p align="center">
-  <a href="https://youtu.be/REPLACE_WITH_VIDEO_ID">
+  <a href="https://youtu.be/VC16TgyUrMc">
     <img src="images/film-thumbnail.jpg" alt="Watch the ALINA OS film (4:31)" width="100%">
   </a>
   <br>
