@@ -2,6 +2,57 @@
 
 **An AI-native operating system.** A resident intelligence that remembers with rules,
 acts in the open, submits to review, and runs on a machine you can rebuild from text.
+Next, it becomes an AI that is yours: personal to one human, always on, with your memory,
+authority and identity held by an OS you own.
+
+<p align="center">
+  <a href="https://alinaos.com/vision/">
+    <img src="images/north-star/hero.jpg" alt="ALINA: a woven sphere of memory with interchangeable AI tools in orbit" width="100%">
+  </a>
+</p>
+
+## Where it's going
+
+Every assistant today is a frontier model with a memory feature, and that memory lives
+with the vendor. ALINA turns this around. A personal model that already knows you
+holds the plan, and frontier models are tools it calls for heavy reasoning. Agent apps
+and models are parts you can swap. The self (memory, authority and identity) belongs to
+the operating system and outlives them both.
+
+<p align="center">
+  <img src="images/north-star/three-memories.jpg" alt="Three memories: a loom of episodes, a lattice of facts, a field of neural filaments" width="100%">
+</p>
+
+| Memory | System | Holds | Status |
+|---|---|---|---|
+| **Episodic** | Loom | Every session in every agent app (Claude, Codex, pi, Antigravity, OpenClaw) on one OS-owned ledger, with provenance and trust labels | Live |
+| **Semantic** | Shared memory | Facts, decisions and lessons distilled nightly by a council of models from three labs, with every read and write bound to an audience | Live |
+| **Parametric** | [Engram](https://github.com/alinaos-org/engram) | Habits, style and ways of working in a personal model's weights: encrypted, detachable, rebuildable | Research |
+
+- **Earned, never assumed.** The personal model takes each role (memory oracle, voice,
+  routine conductor, conductor) only when it beats frontier models plus retrieval on a
+  benchmark built from the person's own sessions. A frontier fallback always stays.
+- **Your data, your rules.** Every thread and memory carries a data class. Client and
+  export-controlled work never trains the personal model. Anything outbound waits for
+  approval, and every action is in the ledger.
+- **A product from day one.** Every layer is built per person, so a second person's
+  ALINA is a build from the same flake, not a hand-made copy.
+
+<p align="center">
+  <img src="images/north-star/alina-box.jpg" alt="Concept render: the ALINA box, a small graphite cube with a violet light line, on a shelf at home" width="49%">
+  <img src="images/north-star/silicon.jpg" alt="Concept render: a silicon die with one region glowing violet" width="49%">
+  <br>
+  <sub>Concept renders. Left: the ALINA box, a NixOS machine at home running a person's agents, ledger, memory and model.
+  Right: a low-power wake-gating front end, a long-range track with <a href="https://github.com/controlstackai-silicon">ControlStackAI Silicon</a>.</sub>
+</p>
+
+**The road** has twelve rungs, each with a gate. Done: the Loom ledger, shared memory and
+frontier ALINA, all in daily use. Next: data classes, Loom takeover across all five
+harnesses, and a personal benchmark built from the ledger. Then Engram as a provider,
+the first ALINA box, and a second person's ALINA from the same flake.
+**[The full vision and road →](https://alinaos.com/vision/)**
+
+## What runs today
 
 <p align="center">
   <a href="https://youtu.be/VC16TgyUrMc">
